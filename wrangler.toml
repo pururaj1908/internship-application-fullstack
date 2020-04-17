@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "random-redirector"
 type = "javascript"
-account_id = ""
+account_id = "dea3ad1c584eafd25ebc92f6d6418191"
 workers_dev = true
 route = ""
 zone_id = ""
