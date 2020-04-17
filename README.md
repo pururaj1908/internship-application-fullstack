@@ -1,3 +1,5 @@
+# Deployed Project URL :- https://random-redirector.pdave2.workers.dev
+
 # Cloudflare Workers Internship Application: Full-Stack
 
 ## What is it?
